@@ -1,0 +1,6 @@
+2022-10-16 21:59:59.065  INFO 2980 --- [restartedMain] c.b.e.EmployeePayRollAppApplication      : Starting EmployeePayRollAppApplication using Java 15.0.1 on DESKTOP-RFK6RG2 with PID 2980 (F:\CFE-Batch-project\EmployeePayRollApp\target\classes started by com in F:\CFE-Batch-project\EmployeePayRollApp)
+2022-10-16 21:59:59.281 DEBUG 2980 --- [restartedMain] c.b.e.EmployeePayRollAppApplication      : Running with Spring Boot v2.7.4, Spring v5.3.23
+2022-10-16 21:59:59.286  INFO 2980 --- [restartedMain] c.b.e.EmployeePayRollAppApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-10-16 22:00:32.330  WARN 2980 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-10-16 22:00:37.583  INFO 2980 --- [restartedMain] c.b.e.EmployeePayRollAppApplication      : Started EmployeePayRollAppApplication in 41.277 seconds (JVM running for 45.453)
+2022-10-16 22:00:37.598  INFO 2980 --- [restartedMain] c.b.e.EmployeePayRollAppApplication      : Employee Payroll App Started
